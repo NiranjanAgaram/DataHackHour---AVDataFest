@@ -1,6 +1,6 @@
 # DataHackHour---AVDataFest
 
-See [DataHackHour](https://datahack.analyticsvidhya.com/contest/avdatafest-datahack-hour/) to check amazing content by AnalyticsVidhya.
+See [DataHackHour](https://datahack.analyticsvidhya.com/contest/avdatafest-datahack-hour/) amazing content by AnalyticsVidhya.
 
 -Day 1: How to convert a business problem to analytics problem and hypothesis generation
  
